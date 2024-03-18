@@ -1,6 +1,9 @@
 # Continuative contexts in the Gospel of Luke
 
-This repository contains scripts used in my paper "К описанию релевантных контекстов для континуатива (Евангелие от Луки)" (in prep.).
+This repository contains scripts used in the following paper:
+
+Panova, Anastasia. (2023). Континуативные контексты в Евангелии от Луки [Continuative contexts in the Gospel of Luke]. *Acta Linguistica Petropolitana*. Vol. 19. Part 3. P. 432–467.  https://doi.org/10.30842/alp23065737193432467
+
 
 `what_langs_have_Luke_translations.py` takes a list of all files with translations in the parallel Bible corpus, selects translations into languages which are included in my database and then selects only those translations which contain the translation of the Gospel of Luke. The results are saved to `bible_to_analyze.txt`.
 
